@@ -1,0 +1,2 @@
+https://askubuntu.com/questions/15433/unable-to-lock-the-administration-directory-var-lib-dpkg-is-another-process
+https://askubuntu.com/questions/452638/how-can-i-solve-unable-to-lock-the-administration-directory-var-lib-dpkg

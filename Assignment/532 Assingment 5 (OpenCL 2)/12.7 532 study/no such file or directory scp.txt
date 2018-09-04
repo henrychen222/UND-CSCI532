@@ -1,0 +1,14 @@
+https://stackoverflow.com/questions/26346277/scp-files-from-local-to-remote-machine-error-no-such-file-or-directory
+
+
+(Not read)
+https://stackoverflow.com/questions/46426502/scp-from-local-to-remote-no-such-file-or-directory
+https://www.linuxquestions.org/questions/linux-newbie-8/scp-no-such-file-or-directory-but-its-there-283547/
+https://askubuntu.com/questions/909410/scp-command-returned-no-such-file-or-directory-error
+https://superuser.com/questions/1204664/no-such-file-or-directory-error-when-attempting-to-copy-using-scp-from-remot
+https://superuser.com/questions/432610/an-attempt-to-scp-a-file-i-can-read-returns-the-error-no-such-file-or-director
+https://unix.stackexchange.com/questions/182791/scp-from-remote-to-local-does-not-work
+https://unix.stackexchange.com/questions/115560/use-scp-to-transfer-a-file-from-local-directory-x-to-remote-directory-y
+https://unix.stackexchange.com/questions/93254/why-does-scp-say-no-such-file
+https://it.toolbox.com/question/linux-scp-command-error-testtxt-no-such-file-or-directory-122311
+

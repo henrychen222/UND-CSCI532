@@ -1,0 +1,8 @@
+https://streamhpc.com/blog/2015-03-16/how-to-install-opencl-on-windows/
+https://software.intel.com/en-us/articles/opencl-drivers
+https://developer.nvidia.com/opencl
+https://wiki.tiker.net/PyOpenCL/Installation/Windows?action=AttachFile&do=get&target=OpenCL+and+PyOpenCL+installation+manual.pdf
+http://support.amd.com/en-us/kb-articles/Pages/OpenCL2-Driver.aspx
+https://forums.khronos.org/showthread.php/8668-How-to-install-opencL-for-NVIDIA-architecture
+https://askubuntu.com/questions/796770/how-to-install-libopencl-so-on-ubuntu
+https://gist.github.com/rmcgibbo/6314452

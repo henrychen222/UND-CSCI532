@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Secure_copy   (good)
+http://www.hypexr.org/linux_scp_help.php
+https://kb.iu.edu/d/agye

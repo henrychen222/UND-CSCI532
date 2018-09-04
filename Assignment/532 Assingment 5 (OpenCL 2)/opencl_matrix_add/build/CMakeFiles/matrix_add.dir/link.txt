@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -std=c++11 -Wall -O3 -funroll-loops -msse3 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/matrix_add.dir/matrix_add.cxx.o CMakeFiles/matrix_add.dir/opencl_utils.cxx.o  -o matrix_add -framework OpenCL 

@@ -1,0 +1,14 @@
+https://kb.iu.edu/d/agye
+
+
+
+(not read)
+https://www.garron.me/en/articles/scp.html
+http://www.hypexr.org/linux_scp_help.php
+https://www.a2hosting.com/kb/getting-started-guide/accessing-your-account/transferring-files-using-scp-secure-copy
+https://www.linux.com/learn/intro-to-linux/2017/2/how-securely-transfer-files-between-servers-scp
+https://www.tecmint.com/scp-commands-examples/
+https://www.computerhope.com/unix/scp.htm
+https://stackoverflow.com/questions/21587036/using-putty-to-scp-from-windows-to-linux
+http://ged.msu.edu/angus/tutorials/using-putty-on-windows.html
+https://success.tanaza.com/s/article/How-to-use-SCP-command-on-Windows

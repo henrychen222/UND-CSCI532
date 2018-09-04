@@ -1,0 +1,15 @@
+https://software.intel.com/en-us/articles/opencl-drivers
+https://software.intel.com/en-us/intel-opencl
+https://developer.nvidia.com/opencl
+http://support.amd.com/en-us/kb-articles/Pages/OpenCL2-Driver.aspx
+http://www.amd.com/en-us/solutions/professional/hpc/opencl
+https://streamhpc.com/blog/2015-03-16/how-to-install-opencl-on-windows/
+
+
+
+
+
+(Not read)
+https://software.intel.com/en-us/intel-opencl/download
+http://dl.altera.com/opencl/
+https://www.khronos.org/opencl/

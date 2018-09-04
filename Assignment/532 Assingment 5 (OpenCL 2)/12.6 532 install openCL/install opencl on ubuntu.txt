@@ -1,0 +1,15 @@
+https://gist.github.com/rmcgibbo/6314452   (good)
+https://askubuntu.com/questions/796770/how-to-install-libopencl-so-on-ubuntu  (good)             follow
+https://askubuntu.com/questions/850281/opencl-on-ubuntu-16-04-intel-sandy-bridge-cpu  (good)     follow
+
+
+https://wiki.tiker.net/OpenCLHowTo   (good  same)
+https://streamhpc.com/blog/2011-06-24/install-opencl-on-debianubuntu-orderly/ (good same)
+http://laanwj.github.io/2016/05/06/opencl-ubuntu1604.html    (good   same)
+https://www.linkedin.com/pulse/how-install-opencl-ubuntu-amd-gpu-belal-medhat   (good same)
+
+
+(Not read)
+https://software.intel.com/en-us/forums/opencl/topic/390630
+https://stackoverflow.com/questions/35515796/install-opencl-on-ubuntu-14-04-and-nvidia  (good)   try
+https://devtalk.nvidia.com/default/topic/975944/cuda-setup-and-installation/ubuntu-16-10-cuda-toolkit-install-with-opencl/  (good) try

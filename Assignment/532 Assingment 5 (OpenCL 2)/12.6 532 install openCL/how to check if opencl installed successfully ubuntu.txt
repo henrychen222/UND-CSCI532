@@ -1,0 +1,13 @@
+https://software.intel.com/en-us/forums/opencl/topic/731341
+https://streamhpc.com/blog/2011-06-24/install-opencl-on-debianubuntu-orderly/  (good)
+https://wiki.tiker.net/OpenCLHowTo   (good)
+https://hashcat.net/forum/thread-6376.html
+http://laanwj.github.io/2016/05/06/opencl-ubuntu1604.html   (good)
+https://stackoverflow.com/questions/35011804/install-opencl-ubuntu-amd  (good)
+https://askubuntu.com/questions/850281/opencl-on-ubuntu-16-04-intel-sandy-bridge-cpu  (Same  follow)
+
+
+(not read)
+https://www.eriksmistad.no/getting-started-with-opencl-and-gpu-computing/  (very good)
+https://askubuntu.com/questions/68028/how-do-i-check-if-ubuntu-is-using-my-nvidia-graphics-card
+https://www.linkedin.com/pulse/how-install-opencl-ubuntu-amd-gpu-belal-medhat  (good)
