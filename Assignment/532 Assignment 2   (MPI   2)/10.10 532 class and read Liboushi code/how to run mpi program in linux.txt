@@ -1,0 +1,9 @@
+http://www.cs.trinity.edu/~bmassing/Misc/mpi-howto/
+https://www.dartmouth.edu/~rc/classes/intro_mpi/compiling_mpi_ex.html
+http://www.shodor.org/cserd/Resources/Tutorials/RunningMPI/
+http://mpitutorial.com/tutorials/mpi-hello-world/
+http://mpitutorial.com/tutorials/running-an-mpi-cluster-within-a-lan/
+
+
+
+https://software.intel.com/en-us/mpi-developer-guide-linux-running-an-mpi-program   

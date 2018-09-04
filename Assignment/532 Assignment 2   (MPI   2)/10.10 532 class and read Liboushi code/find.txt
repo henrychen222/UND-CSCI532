@@ -1,0 +1,4 @@
+http://www.cplusplus.com/reference/string/string/find/             (std::string::find)
+http://www.cplusplus.com/reference/algorithm/find/                 (std::find)
+
+http://www.cplusplus.com/forum/beginner/89433/

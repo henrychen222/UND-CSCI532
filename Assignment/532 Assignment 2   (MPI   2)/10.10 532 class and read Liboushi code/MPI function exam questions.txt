@@ -1,0 +1,6 @@
+https://insidehpc.com/2017/08/test-knowledge-mpi-quiz/    (good)
+http://sydney.edu.au/engineering/it/courses/comp5426/#_Tutorials   (good)
+
+http://www.cs.utah.edu/~mhall/cs4961f11/final.pdf
+https://www.hpc.cam.ac.uk/using-clusters/compiling-and-development/parallel-programming-mpi-example
+https://htor.inf.ethz.ch/teaching/mpi_tutorials/cscs12/hoefler_tutorial_advanced-mpi-2.2-and-mpi-3.0_cscs.pdf
