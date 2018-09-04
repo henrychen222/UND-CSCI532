@@ -1,0 +1,3 @@
+http://www.cplusplus.com/reference/cstdint/
+http://en.cppreference.com/w/cpp/types/integer
+http://blog.csdn.net/lzx_bupt/article/details/7066577  (good)

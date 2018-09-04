@@ -1,0 +1,2 @@
+http://www.cplusplus.com/reference/iomanip/setw/
+http://www.c4learn.com/cplusplus/cpp-setw-setting-field-width/

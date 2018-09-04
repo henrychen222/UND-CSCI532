@@ -1,0 +1,4 @@
+http://www.cplusplus.com/reference/iomanip/setprecision/
+http://blog.csdn.net/slience_perseverance/article/details/6816904  (good)
+http://blog.csdn.net/mingzhentanwo/article/details/41082449
+http://blog.csdn.net/u011321546/article/details/9293547
