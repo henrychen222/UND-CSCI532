@@ -1,0 +1,8 @@
+https://www.mpich.org/static/docs/v3.1/www3/MPI_Allreduce.html
+https://www.open-mpi.org/doc/v1.5/man3/MPI_Allreduce.3.php
+http://mpi.deino.net/mpi_functions/MPI_Allreduce.html
+
+
+
+http://mpitutorial.com/tutorials/mpi-reduce-and-allreduce/
+https://www.ibm.com/support/knowledgecenter/en/SSFK3V_1.3.0/com.ibm.cluster.pe.v1r3.pe500.doc/am107_ialredu.htm

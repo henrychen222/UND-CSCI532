@@ -1,0 +1,7 @@
+https://www.mpich.org/static/docs/v3.1/www3/MPI_Gatherv.html
+https://www.open-mpi.org/doc/v1.10/man3/MPI_Gatherv.3.php
+http://mpi.deino.net/mpi_functions/MPI_Gatherv.html
+
+
+https://cvw.cac.cornell.edu/MPIcc/gathervscatterv
+https://www.ibm.com/support/knowledgecenter/en/SSFK3V_1.3.0/com.ibm.cluster.pe.v1r3.pe500.doc/am107_igathv.htm

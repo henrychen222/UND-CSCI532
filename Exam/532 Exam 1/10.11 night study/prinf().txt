@@ -1,0 +1,5 @@
+http://www.cplusplus.com/reference/cstdio/printf/
+https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm
+
+
+http://en.cppreference.com/w/cpp/io/c/fprintf

@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/15049190/difference-between-mpi-allgather-and-mpi-alltoall-functions

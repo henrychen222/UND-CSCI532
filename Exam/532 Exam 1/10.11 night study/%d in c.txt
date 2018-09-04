@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/9026980/what-does-s-and-d-mean-in-printf-in-the-c-language
+
+
+
+https://stackoverflow.com/questions/13704964/what-does-d-mean

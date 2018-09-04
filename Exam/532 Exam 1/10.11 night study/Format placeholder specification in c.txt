@@ -1,0 +1,2 @@
+http://www.cs.sfu.ca/CourseCentral/130/johnwill/printf.html
+https://www.codingunit.com/printf-format-specifiers-format-conversions-and-formatted-output

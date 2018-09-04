@@ -1,0 +1,7 @@
+https://www.mpich.org/static/docs/v3.1/www3/MPI_Scatter.html
+https://www.open-mpi.org/doc/v1.5/man3/MPI_Scatter.3.php
+http://mpi.deino.net/mpi_functions/MPI_Scatter.html
+
+
+https://msdn.microsoft.com/en-us/library/dn473465(v=vs.85).aspx
+http://mpitutorial.com/tutorials/mpi-scatter-gather-and-allgather/

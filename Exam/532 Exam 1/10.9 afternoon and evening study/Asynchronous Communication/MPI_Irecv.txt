@@ -1,0 +1,9 @@
+http://mpi.deino.net/mpi_functions/MPI_Irecv.html        (good)
+https://www.open-mpi.org/doc/v2.0/man3/MPI_Irecv.3.php    (good)
+http://www.mpich.org/static/docs/v3.2/www3/MPI_Irecv.html (good)
+https://linux.die.net/man/3/mpi_irecv
+https://www.ibm.com/support/knowledgecenter/en/SSFK3V_1.3.0/com.ibm.cluster.pe.v1r3.pe500.doc/am107_iirecv.htm
+
+
+http://beige.ucs.indiana.edu/B673/node153.html
+http://mpi-forum.org/docs/mpi-1.1/mpi-11-html/node46.html

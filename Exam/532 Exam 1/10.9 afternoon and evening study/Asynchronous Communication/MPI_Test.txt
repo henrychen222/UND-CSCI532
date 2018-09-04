@@ -1,0 +1,9 @@
+https://www.mpich.org/static/docs/v3.2/www3/MPI_Test.html
+https://www.open-mpi.org/doc/v1.10/man3/MPI_Test.3.php
+http://mpi.deino.net/mpi_functions/MPI_Test.html
+
+
+
+https://cvw.cac.cornell.edu/mpip2p/waittestfree
+https://msdn.microsoft.com/en-us/library/dn473479(v=vs.85).aspx
+https://www.ibm.com/support/knowledgecenter/en/SSFK3V_1.3.0/com.ibm.cluster.pe.v1r3.pe500.doc/am107_itest.htm

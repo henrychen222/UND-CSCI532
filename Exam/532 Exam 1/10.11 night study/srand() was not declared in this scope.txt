@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/8771836/do-not-understand-errors-in-basic-c-program

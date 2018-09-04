@@ -1,0 +1,2 @@
+http://cs.umw.edu/~finlayson/class/fall16/cpsc425/notes/15-mpi2.html
+http://www.eurompi2016.ed.ac.uk/sites/default/files/attachments/Dang-millions-of-threads.pdf

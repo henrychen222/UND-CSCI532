@@ -1,0 +1,10 @@
+https://www.mpich.org/static/docs/v3.2/www3/MPI_Recv.html
+https://www.open-mpi.org/doc/v1.8/man3/MPI_Recv.3.php
+http://mpi.deino.net/mpi_functions/MPI_Recv.html
+
+
+https://help.scilab.org/doc/5.5.2/en_US/MPI_Recv.html
+https://msdn.microsoft.com/en-us/library/dn473453(v=vs.85).aspx
+https://www.ibm.com/support/knowledgecenter/en/SSFK3V_1.3.0/com.ibm.cluster.pe.v1r3.pe500.doc/am107_irecv.htm
+
+

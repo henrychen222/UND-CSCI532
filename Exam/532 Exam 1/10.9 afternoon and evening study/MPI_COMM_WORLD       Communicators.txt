@@ -1,0 +1,5 @@
+http://www.math.tu-cottbus.de/~kd/parallel/mpi/mpi-course.book_23.html
+http://mpitutorial.com/tutorials/introduction-to-groups-and-communicators/
+https://tech.io/playgrounds/349/introduction-to-mpi/mpi_comm_world-size-and-ranks
+
+http://www.training.prace-ri.eu/uploads/tx_pracetmo/MPIIntro.pdf

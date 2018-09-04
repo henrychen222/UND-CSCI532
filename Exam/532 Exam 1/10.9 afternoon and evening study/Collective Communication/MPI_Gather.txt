@@ -1,0 +1,6 @@
+https://www.mpich.org/static/docs/v3.1/www3/MPI_Gather.html
+https://www.open-mpi.org/doc/v1.8/man3/MPI_Gather.3.php
+
+
+https://cvw.cac.cornell.edu/MPIcc/gatherscatter?AspxAutoDetectCookieSupport=1
+http://mpitutorial.com/tutorials/mpi-scatter-gather-and-allgather/

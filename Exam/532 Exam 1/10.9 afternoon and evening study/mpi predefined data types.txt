@@ -1,0 +1,6 @@
+https://www.ibm.com/support/knowledgecenter/SSFK3V_2.3.0/com.ibm.cluster.pe.v2r3.pe400.doc/am106_pmd.htm
+
+
+https://www.mcs.anl.gov/research/projects/mpi/mpi-standard/mpi-report-2.0/node229.htm
+http://mpi-forum.org/docs/mpi-2.2/mpi22-report/node336.htm
+http://beige.ucs.indiana.edu/I590/node100.html

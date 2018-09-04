@@ -1,0 +1,4 @@
+http://www.cplusplus.com/reference/cstdio/sprintf/
+http://mcs.uwsuper.edu/sb/202/Intro/printf
+http://fresh2refresh.com/c-programming/c-file-handling/sprintf-function-c/
+http://rextester.com/discussion/RMP5751/Using-C-s-sprinf-Function-to-Format-Output-String

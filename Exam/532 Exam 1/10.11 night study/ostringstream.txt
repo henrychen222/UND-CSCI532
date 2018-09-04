@@ -1,0 +1,2 @@
+http://www.cplusplus.com/reference/sstream/ostringstream/
+http://en.cppreference.com/w/cpp/io/basic_ostringstream

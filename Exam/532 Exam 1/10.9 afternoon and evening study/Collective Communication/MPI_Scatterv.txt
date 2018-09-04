@@ -1,0 +1,5 @@
+https://www.mpich.org/static/docs/v3.1/www3/MPI_Scatterv.html
+https://www.open-mpi.org/doc/v1.10/man3/MPI_Scatterv.3.php
+http://mpi.deino.net/mpi_functions/MPI_Scatterv.html
+
+https://msdn.microsoft.com/en-us/library/dn473466(v=vs.85).aspx

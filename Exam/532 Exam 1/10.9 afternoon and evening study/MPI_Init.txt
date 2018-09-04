@@ -1,0 +1,5 @@
+https://www.mpich.org/static/docs/v3.1/www3/MPI_Init.html
+https://www.open-mpi.org/doc/v1.8/man3/MPI_Init.3.php
+http://www.emerson.emory.edu/services/mpich/www3/MPI_Init.html
+
+https://msdn.microsoft.com/en-us/library/dn473419(v=vs.85).aspx

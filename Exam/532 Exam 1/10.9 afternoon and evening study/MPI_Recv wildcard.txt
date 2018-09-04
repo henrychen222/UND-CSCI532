@@ -1,0 +1,7 @@
+http://www.mathcs.emory.edu/~cheung/Courses/355/Syllabus/92-MPI/send+recv-adv.html  (good)
+http://mpi-forum.org/docs/mpi-1.1/mpi-11-html/node34.html
+https://www.open-mpi.org/doc/v1.8/man3/MPI_Recv.3.php
+
+
+https://books.google.com/books?id=obDDDQAAQBAJ&pg=PA223&lpg=PA223&dq=mpi_recv+wildcard&source=bl&ots=iLT1mBhg9C&sig=D0nMs8Lk0K516SoDnB5QW0v9FiA&hl=en&sa=X&ved=0ahUKEwip5K_b7-TWAhVE1oMKHZPzDz0Q6AEIUDAF#v=onepage&q=mpi_recv%20wildcard&f=false
+https://books.google.com/books?id=GufgfWSHt28C&pg=PA49&lpg=PA49&dq=mpi_recv+wildcard&source=bl&ots=6mPu1csTok&sig=agv_INzwuHFUCSQBPHLi9tOafds&hl=en&sa=X&ved=0ahUKEwip5K_b7-TWAhVE1oMKHZPzDz0Q6AEIUzAG#v=onepage&q=mpi_recv%20wildcard&f=false
