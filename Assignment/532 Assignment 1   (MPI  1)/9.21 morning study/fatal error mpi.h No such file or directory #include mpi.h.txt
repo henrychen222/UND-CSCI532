@@ -1,0 +1,10 @@
+https://groups.google.com/forum/#!topic/mpi4py/8oRrpAG13J8 ((see this first)  mpi4py)
+https://pythonhosted.org/mpi4py/usrman/appendix.html#building-mpi-from-sources
+https://stackoverflow.com/questions/26920083/fatal-error-mpi-h-no-such-file-or-directory-include-mpi-h  (solve)
+
+
+
+https://github.com/openai/baselines/issues/114  (try)
+https://bitbucket.org/mpi4py/mpi4py/issues/5/help-desired-to-install-mpi4py   
+https://unix.stackexchange.com/questions/237670/mpi-h-not-found
+https://github.com/h5py/h5py/issues/216

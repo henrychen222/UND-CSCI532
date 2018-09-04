@@ -1,0 +1,8 @@
+https://forum.kodi.tv/showthread.php?tid=79762
+https://stackoverflow.com/questions/15852417/compiling-opengl-program-gl-glew-h-missing
+https://www.opengl.org/discussion_boards/showthread.php/178628-Not-sure-what-im-doing-wrong-GL-Glew-h-and-GL-freeglut-h-problem
+
+
+
+
+Finally discover didnt install opengl, so (sudo apt-get install opengl)

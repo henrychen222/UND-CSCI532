@@ -1,0 +1,4 @@
+https://askubuntu.com/questions/96087/how-to-install-opengl-glut-libraries  (set)
+https://askubuntu.com/questions/332375/unable-to-locate-package-libglut3-dev
+https://askubuntu.com/questions/283205/cannot-get-opengl-to-install        (set)
+https://stackoverflow.com/questions/7842622/setting-up-opengl-on-ubuntu    (set)

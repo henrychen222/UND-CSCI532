@@ -1,0 +1,3 @@
+https://www.linuxquestions.org/questions/linux-software-2/mpicc-command-not-found-with-openmpi-910351/
+https://stackoverflow.com/questions/13909432/installed-openmpi-library-but-cannot-use-mpicc-command-in-linux  (useful)
+https://forums.opensuse.org/showthread.php/506755-mpicc-command-not-found

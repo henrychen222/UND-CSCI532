@@ -1,0 +1,54 @@
+TO RUN THIS PROJECT BY Wei Chen, EXECUTE FOLLOWING STEPS
+
+NOTE: ${PROJECT_DIR} is a Marco for location of the project directory.
+
+A. BUILD this project in LINUX by shell in ${PROJECT_DIR}
+    $ sudo chmod +x compile_kmeans_mpi.sh compile_kmeans_non_mpi.sh run_kmeans_mpi.sh run_kmeans_non_mpi.sh
+    $ ./compile_kmeans_non_mpi.sh
+    $ ./compile_kmeans_mpi.sh
+    then we get file named 'kmeans_non_mpi' and 'kmeans_mpi'
+
+B. RUN kmeans_non_mpi using shell script "run_kmeans_non_mpi.sh":
+        $ ./run_kmeans_non_mpi.sh
+    The console print out the intermediate information:
+        a) Number of star files read;
+        b) Number of stars read;
+        c) Number of stars wanted;
+        e) Logs for stars loaded in memory, including star number, max/min value for X Y Z;
+        f) Random centroids for Llody's Algorithm;
+        g) Each iteration with delta SSE and new centroids updated;
+        h) Algorithm output, including centroids with the number of star clustered and the percentage;
+        i) Time elapsed in NON-MPI Llody's Algorithm.
+    Tips for rewrite the script
+        #!/bin/sh
+        ./kmeans_non_mpi <number of clusters> <star-file list>
+
+C. Observe the output of kmeans_non_mpi with "Star Visualization" by following steps
+    Run the "star visualizer" as below
+        $ cd ${STAR_VISUALIZER}/build
+        $ ./star_visualizer --window_size 640 640 --star_files ${PROJECT_DIR}/clusters_non_mpi/stars-*.txt
+
+#############################################################################################
+####  The CURRENT OUTCOME fulfills the REQUIREMENTS of the assignment1 item-1 to item-3  ####
+#############################################################################################
+
+D. RUN kmeans_mpi using shell script "run_kmeans_mpi.sh"
+        $ ./run_kmeans_mpi.sh
+    The console print out intermediate information:
+        a) star load by Master process (rank = 0) including star number, max/min value for X Y Z;
+        b) Random centroids for Llody's Algorithm by Master process and its Bcast result;
+        c) slices information
+        d) Each iteration with delta SSE and new centroids updated;
+        e) Algorithm output, including centroids with the number of star clustered and the percentage;
+    Tips for rewrite the script
+        #!/bin/sh
+        mpirun -np <number of process> kmeans_mpi --cluster_num <number of clusters> --star_files <star-file list>
+
+C. Observe the output of kmeans_mpi with "Star Visualization" by following steps
+    Run the "star visualizer" as below
+        $ cd ${STAR_VISUALIZER}/build
+        $ ./star_visualizer --window_size 640 640 --star_files ${PROJECT_DIR}/clusters_mpi/stars-*.txt
+
+#############################################################################################
+####  The CURRENT OUTCOME fulfills the REQUIREMENTS of the assignment1 item-4            ####
+#############################################################################################

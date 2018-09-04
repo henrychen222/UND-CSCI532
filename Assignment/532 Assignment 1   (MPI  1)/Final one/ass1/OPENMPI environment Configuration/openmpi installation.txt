@@ -1,0 +1,5 @@
+http://www.simunano.com/2015/07/how-to-install-openmpi.html    (install)
+http://www.open-mpi.org   (download)
+
+
+

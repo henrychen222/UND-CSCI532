@@ -1,0 +1,3 @@
+https://www.tutorialspoint.com/c_standard_library/c_function_memset.htm  (good)
+http://www.cplusplus.com/reference/cstring/memset/     (good)
+http://www.geeksforgeeks.org/memset-c-example/

@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=QIMAu_o_5V8
+http://www.simunano.com/2015/07/how-to-install-openmpi.html    (install)
+http://www.open-mpi.org   (download)
+
+
+
+http://blog.csdn.net/kongxx/article/details/52227572

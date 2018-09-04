@@ -1,0 +1,24 @@
+TO RUN THIS PROJECT BY Wei Chen, EXECUTE FOLLOWING STEPS
+
+A. BUILD this project using cmake wih clang & llvm installed in LINUX
+    $ sudo apt-get install clang llvm
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ make
+    then we get execuable app named 'kmeas-nompi'
+
+B. RUN this app with proper arguments like this:
+    Put the test star files in ./build/stars under project path,
+        i.e., stars-10.txt, stars-23.txt and stars-86.txt
+    Run project as below:
+    $ ./kmeans-nompi 3 ./stars/stars-10.txt ./stars/stars-23.txt ./stars/stars-86.txt
+    the console print out the intermediate information contents:
+        a) Number of star files read;
+        b) Number of stars read;
+        c) Number of stars wanted;
+        e) Logs for stars loaded in memory, including star number, max/min value for X Y Z;
+        f) Random centroids for Llody's Algorithm;
+        g) Each iteration with delta SSE and new centroids updated;
+        h) Algorithm output, including centroids with the number of star clustered and the percentage;
+        i) Time elapsed in NON-MPI Llody's Algorithm
