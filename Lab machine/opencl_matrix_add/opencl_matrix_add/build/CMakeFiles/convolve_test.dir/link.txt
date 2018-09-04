@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -std=c++11 -Wall -O3 -funroll-loops -msse3 -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/convolve_test.dir/convolve_test.cxx.o CMakeFiles/convolve_test.dir/opencl_utils.cxx.o  -o convolve_test -framework OpenCL -lexact_common -lexact_image_tools 
